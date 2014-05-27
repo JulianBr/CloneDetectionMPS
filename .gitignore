@@ -1,4 +1,7 @@
 *.class
+source_gen
+classes_gen
+source_gen.caches
 
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/

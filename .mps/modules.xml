@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MPSProject">
+    <projectModules>
+      <modulePath path="$PROJECT_DIR$/languages/de.unibremen.mps.clonedetection/de.unibremen.mps.clonedetection.mpl" folder="lang" />
+      <modulePath path="$PROJECT_DIR$/languages/de.unibremen.mps.clonedetection/sandbox/de.unibremen.mps.clonedetection.sandbox.msd" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/de.unibremen.mps.clonedetection/solutions/pluginSolution/de.unibremen.mps.clonedetection.pluginSolution.msd" folder="lang" />
+    </projectModules>
+  </component>
+</project>
+
